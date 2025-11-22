@@ -107,9 +107,6 @@ This notebook contains:
 ## Author
 
 Damilya Amangeldykyzy
+Yasmin Tleukhan
 
 ---
-
-**Note:**  
-For best results, regularly update your data and retrain your models.  
-All reusable code is in `src/`, but the main modeling workflow and results are
